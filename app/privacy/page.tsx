@@ -72,8 +72,8 @@ export default function PrivacyPolicy() {
         <h2 className="text-xl font-semibold mt-8 mb-3" style={{ color: '#FF6B35' }}>Contact Us</h2>
         <p className="mb-6" style={{ color: '#F0F0F5', lineHeight: '1.7' }}>
           If you have questions about this Privacy Policy, please contact us at{" "}
-          <a href="mailto:rshotkoski@gmail.com" style={{ color: '#7C5CFC' }} className="underline">
-            rshotkoski@gmail.com
+          <a href="mailto:support@getunstuck.pro" style={{ color: '#7C5CFC' }} className="underline">
+            support@getunstuck.pro
           </a>
           .
         </p>
